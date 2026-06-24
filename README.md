@@ -1,5 +1,7 @@
 # GD Mark It
 
+[![Get this plugin on the Godot Asset Store](https://cdn.ezcha.net/static/git-badge/godot-asset-store.svg)](https://store.godotengine.org/asset/ezcha/plugin-bundler/)
+
 This is a helper plugin that automatically generates markdown documentation for a Godot project
 using the built-in language server. It tries to replicate the layout and style of the official
 Godot docs.
@@ -13,8 +15,3 @@ and select "Project > Tools > Generate Documentation..."
 ## Real World Examples
 
 * [Ezcha Network](https://github.com/ezcha-network/godot-plugin/blob/godot-4.x/docs.md)
-
----
-
-You can also find this plugin in the
-[Godot Asset Store](https://store.godotengine.org/asset/ezcha/mark-it/)!
