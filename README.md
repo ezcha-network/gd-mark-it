@@ -4,8 +4,8 @@ This is a helper plugin that automatically generates markdown documentation for 
 using the built-in language server. It tries to replicate the layout and style of the official
 Godot docs.
 
-When enabled the plugin adds a "GenDoc" section in the project settings. Here you
-can select a specific project path/subdirectory, and other various options.
+When enabled the plugin adds a "Mark It" section in the project settings. Here you
+can select a specific project path/subdirectory, an export path, and change other options.
 
 To generate the documentation go to the toolbar
 and select "Project > Tools > Generate Documentation..."
