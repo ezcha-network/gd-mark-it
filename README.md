@@ -10,8 +10,6 @@ can select a specific project path/subdirectory, and other various options.
 To generate the documentation go to the toolbar
 and select "Project > Tools > Generate Documentation..."
 
----
-
 ## Real World Examples
 
 * [Ezcha Network](https://github.com/ezcha-network/godot-plugin/blob/godot-4.x/docs.md)
